@@ -1,9 +1,8 @@
- A very simple Console task for CakePHP to assist with the mundane task of switching the debug level
- in your app.
+A very simple Console task for CakePHP to assist with the mundane task of switching the debug level in your app.
 
- When the task is run with no arguments, displays the current debug level.
+When the task is run with no arguments, displays the current debug level.
 
- Supplying a value of 0, 1 or 2 as the first and only argument, will set the debug to that level
+Supplying a value of 0, 1 or 2 as the first and only argument, will set the debug to that level
 
 	usage: cake debug <debug level>
  
